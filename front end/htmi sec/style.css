@@ -1,0 +1,20 @@
+ /*tagname or id or classname{
+        prop:value1;
+        prop2:value2;
+    3 methods    
+    }*/
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}    
+#hone{
+    text-align: right;
+    color: #9eeb34;
+}
+.custom{
+
+    text-decoration:overline ;
+    color:rgb(133, 5, 27);
+}

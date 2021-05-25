@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+   text-align: center;
+   color: white;
+   font-family: 'Dancing script',cursive;
+}
+table{
+    margin-left: 100px;
+}
+td{
+    width: 50px;
+    height: 200px;
+}
+#first #one{
+    background-color: yellow ;
+}   
+#first #two{
+    background-color: blue;
+}
+#first #three{
+    background-color: brown;
+}
+#first #four{
+    background-color: chartreuse;
+}
+#first #five{
+    background-color: coral;   
+}

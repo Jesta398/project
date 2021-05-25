@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+body{
+background-color:black;
+width:100vw;
+height: 100vh ;
+
+
+}
+h1{
+    font-family: 'Mate SC', serif;
+    color: white;
+    text-align: center;
+
+}
+.movie{
+    text-align: center;
+    color: white;
+    background-color: #42f5ef;
+    width: 33%;
+    float:left;
+}
+.section1{
+
+    background-color: coral;
+}
+

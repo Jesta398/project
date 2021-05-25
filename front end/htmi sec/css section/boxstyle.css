@@ -1,0 +1,16 @@
+div{
+
+    width: 40%;
+    height: 100px;
+    border: 1px solid springgreen; ;
+    background-color: darkgreen;
+}
+.top{
+    margin-left:254px;
+    padding-left: 610px;
+    padding-top: 254px;
+}
+.bottom{
+   margin-top:626px;
+   margin-left: 256px;
+}
